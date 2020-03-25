@@ -7,9 +7,9 @@ package com.artemis.front;
 
 /**
  *
- * @author roca12
+ * @author Danna Valentina
  */
-public class NewMain {
+public class Main {
 
     /**
      * @param args the command line arguments
